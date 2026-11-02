@@ -5,5 +5,7 @@ class Main {
         int var2;
         int var3;
         int var4;
+        int var5;
+        int var6;
     }
 }
